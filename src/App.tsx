@@ -20,7 +20,7 @@ function App() {
       <section className="w-full flex items-center justify-center flex-col py-8">
         <SkillsList skills={skills} />
       </section>
-      <h2 className="flex items-center justify-center py-16 text-6xl font-extrabold tracking-tight text-transparent bg-clip-text drop-shadow-lg bg-[#23ceb4] text-center">Section 3</h2>
+      <h2 className="flex items-center justify-center py-16 text-6xl font-extrabold tracking-tight text-transparent bg-clip-text drop-shadow-lg bg-[#23ceb4] text-center">Me</h2>
       <section className="w-full flex items-center justify-center flex-col py-8">
         <Information />
       </section>
